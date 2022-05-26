@@ -19,3 +19,43 @@ http://217.74.16.155:8082/local//ar-s/bein-5-stop/index.m3u8
 http://217.74.16.155:8082/local//ar-s/bein-6-stop/index.m3u8
 #EXTINF:-1 tvg-name="beIN SPORT 7 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN SPORT 7 HD
 http://217.74.16.155:8082/local//ar-s/bein-7-stop/index.m3u8
+#EXTINF:-1 tvg-name="beIN AFC 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png",beIN AFC 1 HD
+http://217.74.16.155:8082/local//ar-s/bein-afc-1/index.m3u8
+#EXTINF:-1 tvg-name="beIN AFC 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png",beIN AFC 2 HD
+http://217.74.16.155:8082/local//ar-s/bein-afc-2/index.m3u8
+#EXTINF:-1 tvg-name="beIN AFC 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png",beIN AFCAF 3 HD
+http://217.74.16.155:8082/local//ar-s/bein-afc-3/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01.png",SSC SPORT 1 HD
+http://217.74.16.155:8082/local//ar-s/SSC1/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png",SSC SPORT 2 HD
+http://217.74.16.155:8082/local//ar-s/SSC2/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png",SSC SPORT 3 HD
+http://217.74.16.155:8082/local//ar-s/SSC3/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png",SSC SPORT 4 HD
+http://217.74.16.155:8082/local//ar-s/SSC4/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 5 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png",SSC SPORT 5 HD
+http://217.74.16.155:8082/local//ar-s/SSC5/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 6 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png",SSC SPORT 6 HD
+http://217.74.16.155:8082/local//ar-s/SSC6/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 7 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png",SSC SPORT 7 HD
+http://217.74.16.155:8082/local//ar-s/SSC7/index.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png",ABU DHABI SPORT 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/Bnj7qVw3/ABU-DHABI-SPORTS-2.png",ABU DHABI SPORT 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/4xjLnQr9/ABU-DHABI-SPORTS-3.png",ABU DHABI SPORT 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/3JSbQT19/ABU-DHABI-SPORTS-4.png",ABU DHABI SPORT 4 HD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="http://bit.ly/2vEKtMM",Dubai SPORT 1 HD
+https://dmitnthvll.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="http://bit.ly/2w63Hub",Dubai SPORT 2 HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="http://bit.ly/2w63Hub",Dubai SPORT 3 HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bcc4ab3b1.png",Dubai Racing 1 HD
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 5 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png",Dubai Racing 2 HD
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 6 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bfea86c98.png",Dubai Racing 3 HD
+https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
